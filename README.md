@@ -17,8 +17,3 @@ Reach me at: **shaistamahek736@gmail.com**
 
 ---
 
-## 💻 Tech Stack
-
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=canva&logoColor=white)
-![Cloudinary](https://img.shields.io/badge/Cloudinary-%23000000.svg?style=for-the-badge&logo=cloudinary&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white)
